@@ -1,1 +1,3 @@
+![](https://komarev.com/ghpvc/?username=Plajer&style=flat-square&color=orange)
+
 ![Metrics](https://metrics.lecoq.io/Plajer?template=classic&languages=1&repositories=1&achievements=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=plajer%2Ffeedbacky-project&config.timezone=Europe%2FWarsaw)
